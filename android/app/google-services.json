@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "347681182968",
+    "project_id": "jdxupdated",
+    "storage_bucket": "jdxupdated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347681182968:android:359725ab4be5c49dda970d",
+        "android_client_info": {
+          "package_name": "com.example.jdx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347681182968-einnf87463glhp900hmhabnucamnoepg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3w3rGhUd_IoJiCRQGMWriMjcfOEpFwnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347681182968-einnf87463glhp900hmhabnucamnoepg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347681182968:android:4f51a59f73fb9a2bda970d",
+        "android_client_info": {
+          "package_name": "com.jdxconnect.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347681182968-einnf87463glhp900hmhabnucamnoepg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3w3rGhUd_IoJiCRQGMWriMjcfOEpFwnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347681182968-einnf87463glhp900hmhabnucamnoepg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
